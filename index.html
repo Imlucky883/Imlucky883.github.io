@@ -1,0 +1,33 @@
+---
+layout: default
+title: Goobara
+---
+
+<div class="page-archive">
+
+  {% for post in site.posts %}
+    {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+    {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
+
+    {% if forloop.first %}
+      <h2 class="archive-year">{{ this_year }}</h2>
+      <ul class="archive-list">
+    {% endif %}
+
+    <li class="archive-item">
+      <span class="archive-date">{{ post.date | date: "%d %b %Y" }}</span>
+      <span class="archive-separator">-</span>
+      <a href="{{ post.url }}" class="archive-link">{{ post.title }}</a>
+    </li>
+
+    {% if this_year != next_year and next_year != "" %}
+      </ul>
+      <h2 class="archive-year">{{ next_year }}</h2>
+      <ul class="archive-list">
+    {% endif %}
+
+    {% if forloop.last %}
+      </ul>
+    {% endif %}
+  {% endfor %}
+</div>

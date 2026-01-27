@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<div class="page">
+  <h1 class="page-title" style="margin-bottom: 5px; text-align: left;"> All Posts with tag :  <strong>{{ page.title }}</strong></h1>
+  <nav style="margin-bottom: 20px; font-size: 0.8rem; color: #999; text-align: left;">
+    <a href="/tags/" style="text-decoration: none; color: #31708f;">
+      <i class="fa fa-arrow-circle-left"></i> Back to Content Tags
+    </a>
+  </nav>
+
+  <div class="archive-list">
+    {% for post in page.posts %}
+    <div class="archive-row" style="display: flex; align-items: baseline; margin-bottom: 12px;">
+      <a href="{{ post.url }}" class="archive-entry-title" style="font-family: var(--font-serif); text-decoration: none; color: var(--text-dark); white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">{{ post.title }}</a>
+      <span class="archive-line" style="flex-grow: 1; border-bottom: 1px solid #ddd; margin: 0 15px; position: relative; top: -4px;"></span>
+      <span class="archive-entry-date" style="font-family: 'Menlo', monospace; font-size: 0.8rem; color: #666; white-space: nowrap;">{{ post.date | date: "%d %b %Y" }}</span>
+    </div>
+    {% endfor %}
+  </div>
+</div>

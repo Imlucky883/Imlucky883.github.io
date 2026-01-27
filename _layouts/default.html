@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  {% include head.html %}
+
+  <body class="theme-base-0d sidebar-overlay">
+
+    {% include sidebar.html %}
+
+    <button id="theme-toggle" class="theme-toggle-btn" aria-label="Toggle Dark Mode">
+      <i class="fa fa-moon-o" id="theme-icon"></i>
+    </button>
+
+    <div class="wrap">
+      <header class="masthead" style="text-align: center; border: none; margin-bottom: 2rem;">
+        <div class="container">
+          <h3 class="masthead-title">
+            <a href="/" title="Home" style="font-family: 'PT Serif', serif; font-size: 2.2rem; color: #6a9fb5;">Goobara</a>
+          </h3>
+        </div>
+      </header>
+
+      <div class="container content">
+        {{ content }}
+      </div>
+    </div>
+
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const toggleBtn = document.getElementById('theme-toggle');
+      const themeIcon = document.getElementById('theme-icon');
+      const htmlElement = document.documentElement;
+
+      const savedTheme = localStorage.getItem('theme') || 'light';
+      htmlElement.setAttribute('data-theme', savedTheme);
+      updateIcon(savedTheme);
+
+      toggleBtn.addEventListener('click', function() {
+        const currentTheme = htmlElement.getAttribute('data-theme');
+        const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+        
+        htmlElement.setAttribute('data-theme', newTheme);
+        localStorage.setItem('theme', newTheme);
+        updateIcon(newTheme);
+      });
+
+      function updateIcon(theme) {
+        if (theme === 'dark') {
+          themeIcon.classList.remove('fa-moon-o');
+          themeIcon.classList.add('fa-sun-o');
+        } else {
+          themeIcon.classList.remove('fa-sun-o');
+          themeIcon.classList.add('fa-moon-o');
+        }
+      }
+    });
+    </script>
+  </body>
+</html>

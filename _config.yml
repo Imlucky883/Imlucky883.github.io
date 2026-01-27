@@ -1,0 +1,31 @@
+# Setup
+title:            Goobara
+url:              http://localhost:4000
+baseurl:          ""
+
+# About the author (optional)
+author:
+  name:           Laxman Patel
+  email:          laxman00778@gmail.com
+
+# Sidebar navigation
+sidebar_links:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Site Archives
+    url: /archives/
+  - title: Post Categories
+    url: /categories/
+  - title: Content Tags
+    url: /tags/
+
+jekyll-archives:
+  enabled: ['categories', 'tags']
+  layout: archive_layout      # Default for categories
+  layouts:
+    tag: tag_archive_layout   # Specifically use the new layout for tags
+  permalinks:
+    category: '/categories/:name/'
+    tag: '/tags/:name/'
