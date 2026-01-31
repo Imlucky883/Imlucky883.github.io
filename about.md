@@ -3,27 +3,17 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+I work in <strong>platform and infrastructure engineering</strong>. Most of my day revolves around _Linux systems_, _Kubernetes_, _cloud platforms_, and figuring out why something that should work doesn’t.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+> I learn better when I write. 
+> Writing forces clarity. 
+> Publishing forces accountability.
 
-There are currently two themes built on Poole:
+Instead of keeping scattered notes across tools and losing context over time, this blog acts as a long-term memory. 
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+This blog reflects how I think: questioning defaults, challenging assumptions, and digging until things make sense at a systems level.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+I use this space to document what I’m learning—mainly around Linux, networking, Kubernetes, cloud infrastructure, security, and how systems actually work under the hood. Most posts are written while I’m in the middle of figuring something out, not after I’ve “mastered” it.
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+If you’re looking for polished, beginner-friendly guides, this probably isn’t for you.
+If you’re someone who likes understanding why things behave the way they do, you’ll feel at home here.

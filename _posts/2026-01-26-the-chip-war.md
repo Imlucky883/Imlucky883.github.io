@@ -1,12 +1,14 @@
 ---
-banner: "![[US-china-banner.png]]"
-banner_x: 0.48561
+layout: post
+title: Book Summary - The Chip War
+categories: [Books]
+tags: [Chris Miller, Semidconductors, Tech, US, China, Taiwan, Japan]
 ---
 
 ###   1: From Steel to Silicon
 
 **1. Detailed Narrative Arc (The Story):**  
-The chapter establishes the pre-history of the semiconductor by contrasting the "typhoon of steel"—the industrial-scale attrition of World War II—with the nascent "Atomic Age." In 1945, the global balance of power was measured in tons of iron, rubber, and aluminum. The United States won the war not just through bravery, but through the sheer volume of production from assembly lines like River Rouge. However, as the war ended, the first glimpses of a new era appeared. Akio Morita, a young Japanese naval engineer, spent the final months of the war working on heat-seeking missiles, realizing that the future of warfare would not be decided by riveters, but by machines that could "think."
+The chapter establishes the pre-history of the semiconductor by contrasting the "typhoon of steel"—the industrial-scale attrition of World War II—with the nascent "Atomic Age." In 1945, the global balance of power was measured in tons of iron, rubber, and aluminum. The United States won the war not just through bravery, but through the sheer volume of production from assembly lines like River Rouge. However, as the war ended, the first glimpses of a new era appeared. [Akio Morita](https://en.wikipedia.org/wiki/Akio_Morita), a young Japanese naval engineer, spent the final months of the war working on heat-seeking missiles, realizing that the future of warfare would not be decided by riveters, but by machines that could "think."
 
 At the same time, the narrative introduces the two other future titans of the industry: Morris Chang and Andy Grove. Both were children of the war—Chang a refugee fleeing Japanese and later Communist armies in China; Grove a Jewish child hiding from Nazis and then Soviet "liberators" in Budapest. While they were still schoolboys, the world’s first computers, like the **ENIAC**, were being built to calculate artillery trajectories. These machines were massive, filling entire rooms, and relied on vacuum tubes that were essentially lightbulbs. The story arc of this chapter moves from the physical destruction of the old world toward the realization that better math and faster calculations were the keys to the next stage of human history.
 

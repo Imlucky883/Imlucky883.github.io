@@ -1,3 +1,11 @@
+---
+layout: post
+title: Book Summary - The Daily Stoic
+categories: [Books]
+tags: [Stoicism, Philosophy, Ryan Holiday, Marcus Aurelius, Seneca, Epictetus, Meditations]
+---
+
+
 ## January
 ### January 1st: Control and Choice
 

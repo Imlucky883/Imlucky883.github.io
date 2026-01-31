@@ -1,3 +1,10 @@
+---
+layout: post
+title: Book Summary - The Odyssey
+categories: [Books]
+tags: [Homer, Literature,]
+---
+
 
 ### **Book 1: The Boy and the Goddess**
 

@@ -725,3 +725,38 @@ body {
 [data-theme="dark"] .archive-line {
   border-bottom-color: var(--line-color) !important;
 }
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1rem;
+}
+table th, table td {
+  padding: 0.5rem;
+  border: 1px solid #eee; /* Light border for visibility */
+  text-align: left;
+}
+table th {
+  background-color: #f9f9f9;
+}
+
+
+.annotate {
+  position: relative;
+  background-color: pink;
+}
+
+.annotate:hover::after {
+  content: attr(data-note);
+  position: absolute;
+  bottom: 120%;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #333;
+  color: #fff;
+  padding: 8px;
+  border-radius: 5px;
+  font-size: 0.8em;
+  width: 200px;
+  z-index: 10;
+}
