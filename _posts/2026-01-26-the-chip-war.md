@@ -3,8 +3,10 @@ layout: post
 title: Book Summary - The Chip War
 categories: [Books]
 tags: [Chris Miller, Semidconductors, Tech, US, China, Taiwan, Japan]
+banner_image: /public/assets/chipwar.png
 ---
 
+![Banner](/public/assets/chipwar.png)
 ###   1: From Steel to Silicon
 
 **1. Detailed Narrative Arc (The Story):**  
