@@ -1,129 +1,12 @@
-
-## Characters
-- **Semyon Zakharovich Marmeladov** : A poor drunkard
-- **Sofya Semyonovna Marmeladova(Sonya)** : a deeply religious, self-sacrificial young woman forced into prostitution to support her destitute family.
-- **Katerina Ivanovna Marmeladov** : Wife of Marmeladov
-- **Avdotya Romanovna Raskolnikov (Dunya)** : Raskolnikov’s sister
-- **Pulcheria Alexandrovna Raskolnikov** : Raskolnikov’s mother
-- **Pyotr Petrovich Luzhin** : Dunya’s fiancé
-- **Alexander Grigorievich Zamyotov** : junior official and head clerk at the St. Petersburg police station.
-- **Porfiry Petrovich** : magistrate in charge of investigating the murders of the pawnbroker Alyona Ivanovna and her sister Lizaveta.
-- **Nikodim Fomitch** : a good-natured and sympathetic district police superintendent (captain).
-- **Ilya Petrovitch** : a loud and hot-tempered police official who serves as the assistant to the district superintendent. 
-- **Nikolai Dementiev(Mikolka)** :  house painter working near the scene of the crime.
-- **Koch** :  a fat man & client of the pawnbroker, Alyona Ivanovna. 
-- **Pestryakov** : a student and client of the pawnbroker, Alyona Ivanovna.v
-- **Arkady Svidrigailov** :  a predator, with alleged crimes including the rape of a young girl, the murder of his wife Marfa, and other abuses.
-- **Marfa Petrovna Svidrigaïlova** – Svidrigaïlov's deceased wife
-
-## Philosophy
-- **Nihilistic** refers to a philosophy or worldview that rejects generally accepted or fundamental aspects of human existence, such as objective truth, knowledge, morality, values, or meaning. It asserts that life is without intrinsic purpose, often manifesting as extreme pessimism or skepticism towards social, political, and religious institutions. 
-
 ---
-- Meeting at Raskolnikov house between **Nastasya**, **Razumihin**, **Zossimov**(Doctor) **Zamyotov** & **Pyotr Petrovich Luzhin**
-	- **Razumihin** has recently shifted his house with his uncle & is organizing a party where he invites Zossimov & Raskolnikov
-- Raskolnikov while passing Hay market, enters ==Crystal Palace tavern==, where while reading newspaper he encounters **Zamyotov** 
-	- Raskolnikov explains what he would have done after committing the crime. 
-	- While leaving he encounters **Razumihin**
-- Raskolnikov visits the building of Alyona Ivanovna to recollect everything. He is confused whether he should confess or not.
-- Raskolnikov finds Marmeladov under Chariot and bribes the police to take him home where he Katarina. Marmeladov dies there. Raskolnikov pays 20 rubels for the funeral completion. 
-- Raskolnikov leaves for Razumihin's house. Both walk to Raskolnikov's house where they find his mother & sister.
-- Razumihin wakes up in the morning and regrets what he had told Duniya yesterday night while he was drunk. Vists both of them, where he reads out a letter from Luzhin(given by Pulcheria ). Luzhin is planning to visit them tonight but doesn't want the presence of Raskolnikov. 
-- All the three visits Raskolnikov seeing him in good health.  Sonya arrives their inviting Raskolnikov to visit his dad's funeral.
-- Raskolnikov wants his things that he had mortaged at Ivanovna. But he is scared that Porfiry might trick him to confess the truth. Raskolnikov gets to know that Porfiry is a friend of Razumihin. 
-- Porfiry asks Raskolnikov that if he saw somebody moving sofas on the 4th floor between 7-8 PM. Razumihin interrupted saying that he visited that place three days before the death.
-- Raskolnikov & Razumihin returns to house where his mom and sister were staying. But Raskolnikov said that he would visit them after 30 min and turns back to go to his home, where he encounters security guard and unknown person asking the whereabouts of  Raskolnikov and suddenly leaves when he sees Raskolnikov. Raskolnikov follows the men and asks who are you ?? He replies saying that **"You are the real killer"** 
-- Svidrigailov visits the house of Raskolnikov. He is bored of his life. Svidrigailov offers to pay $3000 Rubels to Duniya. 
-- Meeting at Baclev's : Luzhin's ego is hurt very badly after both mom and daughter broke the engagement. Luzhin leaves empty handed. Razumihin suggests Raskolnikov to stay permanently with his sister and mom and start a publishing business(since he had already in the Publishing for 2 years). Raskolnikov leaves for Duniya's house. 
-- 
-
-
-
-
-
-
-
-
-
-
-System / Context: You are a Literature Professor specializing in Russian Realism and the works of Fyodor Dostoevsky. I am currently reading (listening to) Crime and Punishment.  
-My Goal: I need a "Cinematic Reconstruction" of the book to serve as a detailed memory anchor for the future. I want to be able to read this summary in 2 years and vividly visualize the scenes, smell the streets of St. Petersburg, and feel Raskolnikov's anxiety.  
-The Task: Please provide a deep-dive analysis of PART-1  
-Structure Required for EACH CHAPTER within this Part:  
-Chapter [Number]  
-The Narrative Arc (Deep Summary):  
-Write a detailed, multi-paragraph retelling of the events. Do not simply list plot points. Describe the action as if you are describing a movie scene. Focus on the "intricate details"—the specific conversations, the hesitations, the small actions.  
-Key Locations Introduced:  
-List the specific settings (e.g., The Pawnbroker's Flat, The Hay Market, The Tavern). Briefly describe how the author paints these places (e.g., "730 steps from his room").  
-Structure Required at the END of the PART (The "Part Dossier"):  
-[PART NUMBER] Character Profiles & Web:  
-List every character introduced in this Part. For each, provide:  
-Name:  
-Physical Appearance: (Be specific: eye color, height, specific clothing items like "a battered hat" or "feather boa").  
-Personality/Vibe: (e.g., Timid, aggressive, noble).  
-Relationship to Raskolnikov:  
-The Relationship Map:  
-Briefly explain how these characters connect to each other (e.g., Marmeladov is the father of Sonia; Lizaveta is the sister of Alyona).
-
-### **Chapter I: The Rehearsal**
-
-**The Narrative Arc (Deep Summary):**  
-The scene opens on an exceptionally hot July evening. Rodion Romanovitch Raskolnikov, a tall, handsome, but hollow-eyed former student, emerges from his "garret"—a room that resembles a cupboard more than a human dwelling. He creeps down the stairs, paralyzed by a "sick, frightened feeling," not of the law, but of his landlady to whom he owes months of rent. He is so deep in his "monomania" that the external world has become a nuisance.
-He walks toward K. Bridge, mentally counting the 730 steps. This is a "rehearsal." He arrives at a grim, five-storied house and enters the apartment of Alyona Ivanovna, a "withered up old woman" with sharp, malignant eyes. The air is heavy with the smell of furniture polish and yellowing paper. He pawns a silver watch to observe her habits—how she handles her keys, where she keeps her "strongbox," and her reliance on her sister, Lizaveta. Every movement is a data point for a plan he still calls a "fantasy." As he leaves, the "revolt" in his heart reaches a fever pitch; he is disgusted by the squalor of his own intentions.
-
-**The Sensory Atmosphere:**
-
-- **Visuals:** The "Petersburg stench"; the dusty sunset hitting the yellow wallpaper of the old woman’s flat; the "rat’s tail" of the pawnbroker’s greasy hair tied with a broken horn comb.
-    
-- **Sounds:** The faint, tinny tinkle of the apartment bell; the old woman’s dry, hacking cough; the intrusive chatter of drunken men in the streets.
-    
-- **Physical Sensations:** The "stifling" airlessness of the city; the weight of the silver watch in his pocket; the involuntary trembling of Raskolnikov’s hands as he handles the pledge.
-    
-
-**Raskolnikov’s Mental State:**  
-He is in a state of **hypochondriac isolation**. He is rationalizing a "hideous dream" by treating it as a mathematical problem (the 730 steps). He is simultaneously manic—talking to himself aloud—and depressed, having reached a "lower ebb of disorder" where he no longer cares for his physical survival.
-
-**Key Locations Introduced:**
-
-- **The Garret:** S. Place. Described as a "cupboard" or "coffin," symbolizing his self-imposed burial from society.
-    
-- **The Pawnbroker’s Flat:** A place of "shining cleanliness," which Raskolnikov associates with "spiteful old widows."
-    
-
+layout: post
+title: Book Summary - Crime and Punishment
+categories: [Books]
+tags: [Fyodor Dostoevsky, Classic, ]
+# banner_image: /public/assets/chipwar.png
 ---
 
-### **Chapter II: The Gospel of the Gutter**
-
-**The Narrative Arc (Deep Summary):**  
-Seeking to escape his own thoughts, Raskolnikov enters a dark, sticky tavern. There, he meets Marmeladov, a retired government clerk whose face is bloated from drink. In a long, theatrical monologue, Marmeladov confesses his "beggary." He describes how he has drank away his family’s last rags, how his wife Katerina Ivanovna—a woman of "noble heart"—is dying of consumption, and how his daughter, Sonia, was forced to take up the "yellow ticket" (prostitution) to feed the children.
-
-
-
-Raskolnikov listens with a mixture of "contempt and pity." He eventually walks the drunken man back to his "corner"—a room filled with smoke and rags. Katerina Ivanovna erupts in a frenzy of grief and rage when they arrive, pulling Marmeladov by his hair. Raskolnikov silently leaves a handful of copper change on the window sill—an act of charity he immediately regrets, mocking his own "weakness."
-
-**The Sensory Atmosphere:**
-
-- **Visuals:** The "greasy" black satin waistcoat of the innkeeper; the yellow, greenish face of Marmeladov with reddish eyes; the "big green drap de dames shawl" Katerina wears.
-    
-- **Sounds:** The "sniggering" of the tavern boys; the "shrieks and wails" of Katerina; the thud of Marmeladov’s head hitting the floor in penance.
-    
-- **Physical Sensations:** The smell of bad fish and sliced cucumber; the "heavy fumes" of spirits that make the head spin in five minutes.
-    
-
-**Raskolnikov’s Mental State:**  
-**Cynical Observationalist.** He views the Marmeladov family as a confirmation of his theory that "man grows used to everything, the scoundrel!" He feels superior to their chaos but is haunted by the realization that Sonia’s sacrifice is a "pure" form of the crime he is contemplating.
-
-**Key Locations Introduced:**
-
-- **The Tavern:** A dark, dirty basement where Raskolnikov feels "easier" because he is surrounded by other outcasts.
-    
-- **Marmeladov’s Room:** A "passage-room" in Kozel’s house, littered with children’s garments and the smell of tobacco.
-    
-
----
-
-
-### 1. The Genesis
+## The Genesis
 
 **Context & Motivation**  
 Fyodor Dostoevsky wrote Crime and Punishment (published 1866) during a period of immense personal desperation. Following his release from a decade of exile and hard labor in Siberia, he was plagued by gambling debts and the obligation to support his deceased brother’s family. He wrote the novel in a state of starvation, much like his protagonist, literally rushing to finish chapters to pay his creditors.
@@ -135,25 +18,12 @@ Dostoevsky wrote this book as a violent reaction against the wave of Western Eur
     
 - **The Calculus of Death:** Dostoevsky was horrified by the utilitarian idea that one could commit a "useful crime"—killing a worthless person to use their wealth for the greater good of humanity. He wrote this book to test that theory in a laboratory of the human soul, proving that human nature and conscience cannot be suppressed by simple arithmetic.
 
----
-
-### 2. The Value
-
 **Why Read This Today?**  
 While the setting is 19th-century St. Petersburg, the central conflict is timeless. In a modern world dominated by data, efficiency, and the "great man" worship of tech moguls and disruptors, Crime and Punishment forces the reader to ask: Does the end justify the means?
 
-**Core Lessons:**
-
-- **The Psychological Toll of Guilt:** Dostoevsky invented the psychological thriller. He shows that punishment is not the prison sentence, but the internal disintegration of the psyche. The crime separates the individual from humanity; guilt is the isolation of the soul.
-    
-- **The Fallacy of the "Ubermensch":** Raskolnikov’s theory—that "extraordinary" men (like Napoleon) have the right to step over moral laws—is deconstructed. The book argues that intellect without empathy leads to self-destruction.
-    
-- **Redemption Through Suffering:** A distinctly Russian Orthodox theme, the novel suggests that logical reasoning cannot cure the soul. Only through accepting suffering and connecting with others through love (as opposed to power) can a fractured human be made whole again.
-    
-
 ---
 
-### 3. The Master Character Glossary
+## The Master Character Glossary
 
 #### **The Protagonist**
 
