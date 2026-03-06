@@ -96,6 +96,8 @@ h1, h2, h3, h4, h5, h6 {
   --accent-blue: #6a9fb5;
   --line-color: #eeeeee;
   --sidebar-bg: #202020;
+  --table-header-bg: #f3f3f3;
+  --table-header-color: #313131;
 }
 
 /*
@@ -703,99 +705,99 @@ body {
   transition: background-color 0.3s ease, color 0.3s ease;
 }
 
+/* ── Dracula ── */
+
 [data-theme="dark"] {
-  --bg-color: #1a1414;      /* Deep black/grey background */
-  --text-dark: #ffffff;     /* Soft white for main reading */
-  --text-meta: #ffffff;        /* Muted grey for dates/icons */
-  --accent-blue: #87bdd4;   /* Desaturated blue for better dark contrast */
-  --line-color: #2a2a2a;    /* Subtle dividers */
-  --sidebar-bg: #1a1a1a;    /* Darker sidebar background */
+  --bg-color: #282a36;
+  --text-dark: #f8f8f2;
+  --text-meta: #6272a4;
+  --accent-blue: #ff79c6;
+  --line-color: #44475a;
+  --sidebar-bg: #21222c;
+  --table-header-bg: #21222c;
+  --table-header-color: #f8f8f2;
 }
 
-/* Force consistency across global elements */
-[data-theme="dark"] .sidebar {
-  background-color: #1a1a1a;
-  border-right: 1px solid var(--line-color);
-}
-
-[data-theme="dark"] .masthead-title a {
-  color: var(--accent-blue) !important;
-}
-
-[data-theme="dark"] .archive-line {
-  border-bottom-color: var(--line-color) !important;
-}
-
-/* =============================================
-   DARK MODE OVERRIDES — readable text colors
-   Inspired by popular dark-mode blogs (Ghost,
-   Medium, Bear Blog, Overreacted)
-   ============================================= */
-
+[data-theme="dark"] strong,
 [data-theme="dark"] h1,
 [data-theme="dark"] h2,
 [data-theme="dark"] h3,
 [data-theme="dark"] h4,
 [data-theme="dark"] h5,
 [data-theme="dark"] h6 {
-  color: #e8e8e8 !important; /* Near-white, softer than pure #fff for headings */
+  color: #f8f8f2 !important;
 }
+
+[data-theme="dark"] code {
+  background-color: #1e1f29 !important;
+  color: #50fa7b !important;
+}
+
+[data-theme="dark"] pre {
+  background-color: #1e1f29 !important;
+  color: #50fa7b !important;
+}
+/* =============================================
+   DARK MODE OVERRIDES — readable text colors
+   Inspired by popular dark-mode blogs (Ghost,
+   Medium, Bear Blog, Overreacted)
+   ============================================= */
 
 [data-theme="dark"] .page-title,
 [data-theme="dark"] .post-title,
 [data-theme="dark"] .post-title a {
-  color: #f0f0f0 !important;
+  color: #f8f8f2 !important;
 }
 
 [data-theme="dark"] .post-date {
-  color: #a0a8b8 !important; /* Muted blue-grey — matches Ghost/Medium meta style */
+  color: #6272a4 !important;
 }
 
 [data-theme="dark"] .masthead-title a,
 [data-theme="dark"] .masthead-title {
-  color: #87bdd4 !important; /* Already your accent blue — keep consistent */
+  color: #ff79c6 !important;
 }
 
 [data-theme="dark"] blockquote {
-  color: #b0b8c8 !important;
-  border-left-color: #3a4a5a !important;
+  color: #6272a4 !important;
+  border-left-color: #44475a !important;
 }
 
 [data-theme="dark"] abbr {
-  color: #c0c8d8 !important;
+  color: #f8f8f2 !important;
 }
 
 [data-theme="dark"] hr {
-  border-top-color: #2e2e2e !important;
+  border-top-color: #44475a !important;
   border-bottom-color: transparent !important;
-}
-
-[data-theme="dark"] code {
-  color: #e06c75 !important;       /* Soft red — readable on dark */
-  background-color: #2a2a2a !important;
-}
-
-[data-theme="dark"] pre {
-  background-color: #1e1e1e !important;
-  color: #d4d4d4 !important;       /* VS Code Dark+ style */
 }
 
 [data-theme="dark"] table th,
 [data-theme="dark"] table td {
-  border-color: #333 !important;
+  border-color: #44475a !important;
 }
 
 [data-theme="dark"] table th {
-  background-color: #222 !important;
-  color: #e8e8e8 !important;
+  background-color: #21222c !important;
+  color: #f8f8f2 !important;
+}
+
+[data-theme="dark"] table td {
+  background-color: #282a36 !important;
+  color: #f8f8f2 !important;
 }
 
 [data-theme="dark"] .related {
-  border-top-color: #2e2e2e !important;
+  border-top-color: #44475a !important;
 }
 
 [data-theme="dark"] .masthead-title small {
-  color: #6a7a8a !important;
+  color: #6272a4 !important;
+}
+
+[data-theme="dark"] .theme-base-0d .container a,
+[data-theme="dark"] .theme-base-0d .sidebar-toggle {
+  color: #ff79c6 !important;
 }
 
 table {
@@ -805,13 +807,17 @@ table {
 }
 table th, table td {
   padding: 0.5rem;
-  border: 1px solid #eee; /* Light border for visibility */
+  border: 1px solid var(--line-color);
   text-align: left;
+  color: var(--text-dark);
 }
 table th {
-  background-color: #f9f9f9;
+  background-color: var(--table-header-bg);
+  color: var(--table-header-color);
 }
-
+table td {
+  background-color: var(--bg-color);
+}
 
 .annotate {
   position: relative;
@@ -831,4 +837,14 @@ table th {
   font-size: 0.8em;
   width: 200px;
   z-index: 10;
+}
+mark {
+  background-color: #ffdd57;
+  color: #1a1a1a;
+  padding: 0 3px;
+  border-radius: 2px;
+}
+[data-theme="dark"] mark {
+  background-color: #f1fa8c;
+  color: #282a36;
 }

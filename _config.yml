@@ -27,3 +27,8 @@ jekyll-archives:
   permalinks:
     category: '/categories/:name/'
     tag: '/tags/:name/'
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge

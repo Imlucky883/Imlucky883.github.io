@@ -56,6 +56,9 @@
         }
       }
     });
+    document.querySelectorAll('p, li, td, blockquote').forEach(el => {
+    el.innerHTML = el.innerHTML.replace(/==(.+?)==/g, '<mark>$1</mark>');
+    });
     </script>
   </body>
 </html>
