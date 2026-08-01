@@ -1,8 +1,8 @@
 ---
 layout: post
 title: The Red Ant Chutney 
-categories: [Food,Culture]
-tags: [Chattisgarh]
+categories: [Food]
+tags: [chattisgarh,culture,]
 ---
 
 Red ant chutney, known locally as **Kai Chutney** or **Chaprah**, is one of India's most unique culinary traditions.
