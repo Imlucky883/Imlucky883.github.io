@@ -28,6 +28,13 @@ jekyll-archives:
     category: '/categories/:name/'
     tag: '/tags/:name/'
 
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-archives
+  - jekyll-obsidian-callouts
+
 markdown: kramdown
 kramdown:
   input: GFM

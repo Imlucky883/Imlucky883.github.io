@@ -10,4 +10,5 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem "jekyll-sitemap"
   gem "jekyll-archives", "2.3.0"
+  gem "jekyll-obsidian-callouts"
 end
