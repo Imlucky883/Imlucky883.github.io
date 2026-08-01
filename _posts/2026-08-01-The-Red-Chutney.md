@@ -12,9 +12,6 @@ It is primarily a delicacy of the tribal communities in Eastern and Central Indi
 -  **Oddisha**:  Particularly in the **Mayurbhanj** district. In fact, Kai Chutney from Mayurbhanj recently received the prestigious **GI (Geographical Indication) Tag**, recognizing its unique regional identity.
 - **Jharkhand:** Consumed by various indigenous tribes across the state.
 
-> [!info] Weaver Ants
-> The chutney is made from **weaver ants** (_Oecophylla smaragdina_), which build distinctive nests by stitching leaves together high up in fruit trees like mango or sal. Because Weaver Ants are predators that protect fruit trees from pests, harvesting them actually helps local farmers maintain their mango and sal groves without chemical pesticides!
-
 ### Why is it consumed ??
 While it might seem unusual to some, there are very practical reasons for its popularity:
 
