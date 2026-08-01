@@ -8,11 +8,11 @@ tags: [chattisgarh,culture,]
 Red ant chutney, known locally as **Kai Chutney** or **Chaprah**, is one of India's most unique culinary traditions.
 
 It is primarily a delicacy of the tribal communities in Eastern and Central India. You will mostly find it in :-
-- **[[Chhattisgarh]]**: Specifically the **Bastar** region, where it is a famous local specialty.
--  **[[Oddisha]]**:  Particularly in the **Mayurbhanj** district. In fact, Kai Chutney from Mayurbhanj recently received the prestigious **GI (Geographical Indication) Tag**, recognizing its unique regional identity.
-- **[[Jharkhand]]:** Consumed by various indigenous tribes across the state.
+- **Chhattisgarh**: Specifically the **Bastar** region, where it is a famous local specialty.
+-  **Oddisha**:  Particularly in the **Mayurbhanj** district. In fact, Kai Chutney from Mayurbhanj recently received the prestigious **GI (Geographical Indication) Tag**, recognizing its unique regional identity.
+- **Jharkhand:** Consumed by various indigenous tribes across the state.
 
-> [!Info] Weaver Ants
+> [!info] Weaver Ants
 > The chutney is made from **weaver ants** (_Oecophylla smaragdina_), which build distinctive nests by stitching leaves together high up in fruit trees like mango or sal. Because Weaver Ants are predators that protect fruit trees from pests, harvesting them actually helps local farmers maintain their mango and sal groves without chemical pesticides!
 
 ### Why is it consumed ??
