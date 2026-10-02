@@ -18,7 +18,7 @@ The environment is configured with seven primary utilities covering containers, 
 - **Helm**: The package manager for Kubernetes application deployments.
 - **k9s**: Terminal UI for navigating, monitoring, and managing Kubernetes clusters.
 - **Python 3.11**: Modern Python runtime with build headers and package manager.
-- **just**: Command runner and modern recipe alternative to `make`[cite: 6].
+- **just**: Command runner and modern recipe alternative to `make`
 
 ---
 
@@ -26,7 +26,7 @@ The environment is configured with seven primary utilities covering containers, 
 
 #### 1. Podman & Skopeo
 
-RHEL distributes container management utilities via the modular `container-tools` Application Stream[cite: 6]. Resetting and enabling the explicit stream ensures clean package resolution without conflicting container runtimes[cite: 6]:
+RHEL distributes container management utilities via the modular `container-tools` Application Stream. Resetting and enabling the explicit stream ensures clean package resolution without conflicting container runtimes:
 
 ```bash
 # Reset and enable the container-tools module stream
@@ -54,7 +54,7 @@ source /usr/share/fzf/shell/key-bindings.zsh 2>/dev/null
 
 #### 3. Modern Directory Listing (eza)
 
-eza is a Rust-based, actively maintained fork of exa[cite: 6]. Installing the precompiled GNU binary ensures you do not need the full Rust/Cargo build toolchain on the server
+eza is a Rust-based, actively maintained fork of exa. Installing the precompiled GNU binary ensures you do not need the full Rust/Cargo build toolchain on the server
 ```bash
 # Download the binary archive
 wget [https://github.com/eza-community/eza/releases/latest/download/eza_x86_64-unknown-linux-gnu.tar.gz](https://github.com/eza-community/eza/releases/latest/download/eza_x86_64-unknown-linux-gnu.tar.gz)
@@ -74,7 +74,7 @@ Set drop-in aliases in ~/.bashrc or ~/.zshrc
 ```bash
 alias ls='eza --icons --group-directories-first --color=always'
 alias ll='eza -la --icons --group-directories-first --color=always --git'
-alias lt='eza --tree --level=2 --icons --group-directories-first --color=always'
+alias lt='eza --tree --level=2 --icons --group-direc`tories-first --color=always'
 ```
 #### 4. Kubernetes Package Manager (Helm)
 
